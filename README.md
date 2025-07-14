@@ -1,5 +1,5 @@
-> ⚠️ **This repository is deprecated and no longer maintained.**
-> Please refer to the new repository: [yyh-sjtu/LLM_based_Verilog_GenEval](https://github.com/yyh-sjtu/LLM_based_Verilog_GenEval.git)
+> ## ⚠️ **This repository is deprecated and no longer maintained.**
+> ## Please refer to the new repository: [yyh-sjtu/LLM_based_Verilog_GenEval](https://github.com/yyh-sjtu/LLM_based_Verilog_GenEval.git)
 <div style="text-align: center;">
     <h1>LLM_based_Verilog_GenEval: A comprehensive generation and evaluation framework for LLM based Verilog code generation</h1>
 </div>
